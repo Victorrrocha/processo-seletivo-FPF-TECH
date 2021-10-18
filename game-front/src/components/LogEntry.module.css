@@ -1,0 +1,12 @@
+.entry_container{
+    border: 1px solid rgb(163, 163, 163);
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: #d87c7c;
+    color: white;
+    padding: .2em 0;
+}
+
+.entry_container p {
+    margin: 0 2em;
+}

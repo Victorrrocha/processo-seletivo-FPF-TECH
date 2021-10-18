@@ -1,0 +1,18 @@
+{
+  "name": "processo-seletivo-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "nodemon": "^2.0.13",
+    "npm": "^8.1.0"
+  }
+}

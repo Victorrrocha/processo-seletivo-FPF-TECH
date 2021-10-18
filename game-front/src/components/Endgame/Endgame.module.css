@@ -1,0 +1,33 @@
+.container {
+    margin-top: 1em;
+}
+
+.card {
+    padding: 1em;
+    background-color: rgb(255, 255, 255);
+    min-height: 200px;
+    box-shadow: 0 5px 10px rgb(173, 173, 173);
+    font-size: 1.4rem;
+}
+
+.score {
+    color: rgb(58, 182, 240);
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    max-width: fit-content;
+    align-items: center;
+    margin: 1.3rem auto;
+}
+
+.form label {
+    margin-bottom: 0.5rem;
+}
+
+.form input {
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+}
